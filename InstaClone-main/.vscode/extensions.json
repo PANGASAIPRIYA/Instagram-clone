@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "styled-components.vscode-styled-components",
+        "esbenp.prettier-vscode",
+        "ritwickdey.liveserver",
+        "github.vscode-pull-request-github",
+        "dsznajder.es7-react-js-snippets"
+    ]
+}
